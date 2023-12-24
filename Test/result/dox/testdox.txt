@@ -1,0 +1,24 @@
+User
+ [x] Mock
+ [x] Mock builder
+ [x] Get age
+ [x] Get name
+ [x] Get info
+ [x] Get one
+
+User Controller
+ [x] Check age false with data set #0
+ [x] Check age false with data set #1
+ [x] Check age false with data set #2
+ [x] Check lower 18
+ [x] Check more 18
+ [x] Check age more 18
+ [x] Check age lower 18
+ [x] Check age true with data set #0
+ [x] Check age true with data set #1
+ [x] Check age true with data set #2
+ [x] Check age array with data set #0
+ [x] Check age array with data set #1
+ [x] Check age array with data set #2
+ [x] Check age array with data set #3
+
